@@ -1,2 +1,2 @@
 # happyApp
-An App that makes you smile
+An App that makes you smile hard.
